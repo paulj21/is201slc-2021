@@ -1,0 +1,63 @@
+﻿body {
+
+	background-color: black;
+	color: #ffffff;
+	background-image: url(images/godzilla-nawpic-19-e1624142944661.jpg);
+}
+
+#header {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	right: 10px;
+	height: 50px;
+	margin: auto;
+	text-align: center;
+	border-bottom: 1px solid white;
+}
+
+#navigation {
+	position: absolute;
+	top: 70px;
+	left: 10px;
+	right: 10px;
+	height: 20px;
+	margin: auto;
+	text-align: center;
+	border-right: 1px solid floralwhite;
+}
+
+#mainbody {
+	position: absolute;
+	top: 100px;
+	left: 50px;
+	right: 50px;
+	bottom: 10px;
+}
+
+
+
+
+h1 {color: #242251;}
+
+p {
+	color: white;
+	text-align: justify;
+	line-height: 1.0;
+}
+
+p.contact {color: white;}
+
+.Heading {
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+}
+
+a:link {
+	color: #fffff1; 
+	text-decoration: none;
+	font-weight: bold; 
+}
+a:visited 
+
